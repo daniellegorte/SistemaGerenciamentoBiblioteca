@@ -4,7 +4,7 @@ O projeto tem como objetivo o gerenciamento de uma biblioteca, por meio de contr
 
 
 ## Tecnologias Utilizadas
-<div> C# (Windows Form) | MySQL Workbench | Xampp | Visual Studio </div>
+<div> C# | .NET Framework | MySQL Workbench | Xampp | Visual Studio </div>
 
 
 
