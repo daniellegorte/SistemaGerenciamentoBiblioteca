@@ -1,0 +1,325 @@
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Biblioteca.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.FormTelaInicial.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Usuarios.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Properties.Resources.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.GenerateResource.cache
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe.config
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\ZstdSharp.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.pdb
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Ger.8BA062EE.Up2Date
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaLivros.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaUsuarios.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaUsuarios.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaLivros.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe.config
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\ZstdSharp.dll
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaLivros.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroLivros.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroUsuarios.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaUsuarios.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Biblioteca.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaLivros.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaUsuarios.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.FormTelaInicial.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Usuarios.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Properties.Resources.resources
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.GenerateResource.cache
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Downloads\P1 Projeto\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Ger.8BA062EE.Up2Date
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe.config
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\ZstdSharp.dll
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaLivros.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroLivros.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroUsuarios.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaUsuarios.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Biblioteca.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaLivros.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaUsuarios.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.FormTelaInicial.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Usuarios.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Properties.Resources.resources
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.GenerateResource.cache
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Ger.8BA062EE.Up2Date
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\Rafael\Downloads\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaLivros.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroLivros.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroUsuarios.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaUsuarios.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Biblioteca.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaLivros.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaUsuarios.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.FormTelaInicial.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Usuarios.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Properties.Resources.resources
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.GenerateResource.cache
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe.config
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\ZstdSharp.dll
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.pdb
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gorte\Downloads\P1RAFA\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Ger.8BA062EE.Up2Date
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe.config
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\ZstdSharp.dll
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.pdb
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaLivros.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroLivros.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroUsuarios.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaUsuarios.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Biblioteca.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaEmprestimos.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaLivros.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaUsuarios.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Emprestimo.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.FormTelaInicial.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Usuarios.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Properties.Resources.resources
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.GenerateResource.cache
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Ger.8BA062EE.Up2Date
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\OneDrive\Desktop\P1\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe.config
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\ZstdSharp.dll
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.pdb
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaLivros.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroLivros.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroUsuarios.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaUsuarios.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Biblioteca.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaEmprestimos.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaLivros.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaUsuarios.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Emprestimo.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.FormTelaInicial.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Usuarios.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Properties.Resources.resources
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.GenerateResource.cache
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Ger.8BA062EE.Up2Date
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\OneDrive\Desktop\P1 OK\P1 Projeto falta emprestimo\P1 Projeto - Update, Select e Insert\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe.config
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\P1 - Gerenciamento de Biblioteca.pdb
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\ZstdSharp.dll
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.pdb
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\Google.Protobuf.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.AssemblyReference.cache
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaLivros.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroLivros.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.CadastroUsuarios.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.AtualizaUsuarios.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Biblioteca.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaEmprestimos.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaLivros.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.ConsultaUsuarios.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Emprestimo.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.FormTelaInicial.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Formularios.Usuarios.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1___Gerenciamento_de_Biblioteca.Properties.Resources.resources
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.GenerateResource.cache
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Ger.8BA062EE.Up2Date
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.exe
+C:\Users\gorte\OneDrive\Imagens\Faculdade\ServidorCliente (Cadu)\P1 Projeto\Código Fonte\P1 - Gerenciamento de Biblioteca\P1 - Gerenciamento de Biblioteca\obj\Debug\P1 - Gerenciamento de Biblioteca.pdb
