@@ -2,6 +2,8 @@
 
 O projeto tem como objetivo o gerenciamento de uma biblioteca, por meio de controle e acesso a dados relacionados a livros e usuários de maneira acessível e intuitiva.
 
+**Colaboradores:** 
+Arthur Araujo Lima | Roberta Maria Lansana
 
 ## Tecnologias Utilizadas
 <div> C# | .NET Framework | MySQL Workbench | Xampp | Visual Studio </div>
